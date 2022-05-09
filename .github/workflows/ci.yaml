@@ -22,7 +22,7 @@ jobs:
         run: zsh --version
 
       - name: 🧪 Run Tests
-        run: ./tests/spaceship-ember.test.zsh
+        run: ./tests/spaceship-section.test.zsh
 
   release:
     name: Release
