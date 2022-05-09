@@ -44,4 +44,4 @@ jobs:
             @semantic-release/git
             semantic-release-license
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
