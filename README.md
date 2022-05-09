@@ -93,7 +93,7 @@ github = "spaceship-prompt/spaceship-section"
 After installing, add the following line to your `.zshrc` in order to include Ember section in the prompt:
 
 ```zsh
-spaceship add ember
+spaceship add section
 ```
 
 ## Options
