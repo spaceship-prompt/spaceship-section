@@ -105,7 +105,7 @@ This section is shown only in directories containing a `file-to-check.ext` file.
 | `SPACESHIP_SECTION_SHOW`   |               `true`               | Show current section                 |
 | `SPACESHIP_SECTION_PREFIX` | `$SPACESHIP_PROMPT_DEFAULT_PREFIX` | Prefix before section                |
 | `SPACESHIP_SECTION_SUFFIX` | `$SPACESHIP_PROMPT_DEFAULT_SUFFIX` | Suffix after section                 |
-| `SPACESHIP_SECTION_SYMBOL` |               `🐹·`                | Character to be shown before version |
+| `SPACESHIP_SECTION_SYMBOL` |               `😍·`                | Character to be shown before version |
 | `SPACESHIP_SECTION_COLOR`  |             `yellow`               | Color of section                     |
 
 ## License
