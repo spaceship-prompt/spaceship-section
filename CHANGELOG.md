@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/spaceship-prompt/spaceship-section/compare/v1.0.0...v1.0.1) (2022-06-01)
+
+
+### Bug Fixes
+
+* specify section version ([d6a69ad](https://github.com/spaceship-prompt/spaceship-section/commit/d6a69ad7123fe4580a23e0a822cd1e0a2439ff20))
+
 # 1.0.0 (2022-05-09)
 
 
