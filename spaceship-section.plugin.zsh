@@ -33,7 +33,7 @@ spaceship_section() {
   [[ $tool_version == "system" ]] && return
 
   # Render tool section
-  spaceship::section \
+  spaceship::section::v3 \
     "$SPACESHIP_SECTION_COLOR" \
     "$SPACESHIP_SECTION_PREFIX" \
     "${SPACESHIP_SECTION_SYMBOL}${tool_version}" \
