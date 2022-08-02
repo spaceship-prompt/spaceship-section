@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  A <a href="https://template.com" target="_blank">Tool</a> section for Spaceship prompt
+  A <a href="https://template.com" target="_blank">Foobar</a> section for Spaceship prompt
 </h4>
 
 <p align="center">
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-Current Tool version, through tool (`😍`).
+Current Foobar version, through foobar (`😍`).
 
 ## Installing
 
@@ -93,20 +93,20 @@ github = "spaceship-prompt/spaceship-section"
 After installing, add the following line to your `.zshrc` in order to include Ember section in the prompt:
 
 ```zsh
-spaceship add section
+spaceship add foobar
 ```
 
 ## Options
 
-This section is shown only in directories containing a `file-to-check.ext` file.
+This section is shown only in directories within a foobar context.
 
 | Variable                   |              Default               | Meaning                              |
 | :------------------------- | :--------------------------------: | ------------------------------------ |
-| `SPACESHIP_SECTION_SHOW`   |               `true`               | Show current section                 |
-| `SPACESHIP_SECTION_PREFIX` | `$SPACESHIP_PROMPT_DEFAULT_PREFIX` | Prefix before section                |
-| `SPACESHIP_SECTION_SUFFIX` | `$SPACESHIP_PROMPT_DEFAULT_SUFFIX` | Suffix after section                 |
-| `SPACESHIP_SECTION_SYMBOL` |               `😍·`                | Character to be shown before version |
-| `SPACESHIP_SECTION_COLOR`  |             `yellow`               | Color of section                     |
+| `SPACESHIP_FOOBAR_SHOW`   |               `true`               | Show current section                 |
+| `SPACESHIP_FOOBAR_PREFIX` | `$SPACESHIP_PROMPT_DEFAULT_PREFIX` | Prefix before section                |
+| `SPACESHIP_FOOBAR_SUFFIX` | `$SPACESHIP_PROMPT_DEFAULT_SUFFIX` | Suffix after section                 |
+| `SPACESHIP_FOOBAR_SYMBOL` |               `😍·`                | Character to be shown before version |
+| `SPACESHIP_FOOBAR_COLOR`  |             `yellow`               | Color of section                     |
 
 ## License
 
