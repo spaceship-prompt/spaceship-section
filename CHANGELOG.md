@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/spaceship-prompt/spaceship-section/compare/v1.0.1...v1.0.2) (2022-08-02)
+
+
+### Bug Fixes
+
+* Update template to v4 ([3835c7d](https://github.com/spaceship-prompt/spaceship-section/commit/3835c7d7c8dce7e3d28937c16f86f4c9c96042ec))
+
 ## [1.0.1](https://github.com/spaceship-prompt/spaceship-section/compare/v1.0.0...v1.0.1) (2022-06-01)
 
 
