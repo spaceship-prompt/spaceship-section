@@ -130,7 +130,7 @@ This section is shown only in directories within a foobar context.
 
 ## License
 
-MIT © [Name Surname](http://yourwebsite.com)
+MIT © [Denys Dovhan](http://denysdovhan.com)
 
 <!-- References -->
 
