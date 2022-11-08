@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/spaceship-prompt/spaceship-section/compare/v1.0.2...v1.0.3) (2022-09-21)
+
+
+### Bug Fixes
+
+* **pr template:** remove broken link ([e229fd6](https://github.com/spaceship-prompt/spaceship-section/commit/e229fd658774109a72efbd6472ca08302bcb5c0c))
+
 ## [1.0.2](https://github.com/spaceship-prompt/spaceship-section/compare/v1.0.1...v1.0.2) (2022-08-02)
 
 
