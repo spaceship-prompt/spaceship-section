@@ -128,6 +128,12 @@ This section is shown only in directories within a foobar context.
 | `SPACESHIP_FOOBAR_SYMBOL` |               `😍·`                | Character to be shown before version |
 | `SPACESHIP_FOOBAR_COLOR`  |             `yellow`               | Color of section                     |
 
+## Contributing
+
+First, thanks for your interest in contributing!
+
+Contribute to this repo by submitting a pull request. Please use [conventional commits](https://www.conventionalcommits.org/), since this project adheres to [semver](https://semver.org/) and is automatically released via [semantic-release](https://github.com/semantic-release/semantic-release).
+
 ## License
 
 MIT © [Name Surname](http://yourwebsite.com)
