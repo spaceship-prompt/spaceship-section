@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://github.com/spaceship-prompt/spaceship-section/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/spaceship-prompt/spaceship-gradle/ci.yaml?style=flat-square"
+    <img src="https://img.shields.io/github/actions/workflow/status/spaceship-prompt/spaceship-section/ci.yaml?style=flat-square"
       alt="GitHub Workflow Status" />
   </a>
 
@@ -120,13 +120,13 @@ spaceship add foobar
 
 This section is shown only in directories within a foobar context.
 
-| Variable                   |              Default               | Meaning                              |
-| :------------------------- | :--------------------------------: | ------------------------------------ |
+| Variable                  |              Default               | Meaning                              |
+| :------------------------ | :--------------------------------: | ------------------------------------ |
 | `SPACESHIP_FOOBAR_SHOW`   |               `true`               | Show current section                 |
 | `SPACESHIP_FOOBAR_PREFIX` | `$SPACESHIP_PROMPT_DEFAULT_PREFIX` | Prefix before section                |
 | `SPACESHIP_FOOBAR_SUFFIX` | `$SPACESHIP_PROMPT_DEFAULT_SUFFIX` | Suffix after section                 |
 | `SPACESHIP_FOOBAR_SYMBOL` |               `😍·`                | Character to be shown before version |
-| `SPACESHIP_FOOBAR_COLOR`  |             `yellow`               | Color of section                     |
+| `SPACESHIP_FOOBAR_COLOR`  |              `yellow`              | Color of section                     |
 
 ## Contributing
 
